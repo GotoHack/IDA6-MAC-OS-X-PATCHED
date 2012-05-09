@@ -1,8 +1,2 @@
-Patchdiff2 by Nicolas Pouvesle 2010 / Tenable Security 2007-2009
-Fixed and updated to work with IDA 6 on OSX by Alexander Pick
-
-This should compile easily with no warnings by simplay typing compie cmd (mm or m)
-Might even work on Windows, but this is untested.
-
-License is GPL v2
+Tenable Network Security has released PatchDiff2 for the IDA disassembler. PatchDiff2 can be used to compare the differences in patches provided by vendors in order to understand what has been modified and where previous security holes existed. In some cases, such as the recent MS08-030 release and re-release for Windows XP, a tool like PatchDiff2 can show that a patch update didn't actually modify anything.
 
